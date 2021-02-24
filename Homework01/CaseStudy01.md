@@ -36,7 +36,7 @@ Generally they have very positive reviews sited by Transumo.com they have over 2
     2. Multiple payment options.
     3. Protect/Lock exhange rates.
     4. Choice of Delivery options.
-        * Exress - instant transfers
+        * Express - instant transfers
         * Exonomy - one to four business days
     5. Communication of Transfer Updates via text
 
@@ -45,10 +45,14 @@ Generally they have very positive reviews sited by Transumo.com they have over 2
     1. High costs - fees can quickly stack making is costly to send money - people looking to save money may lean to using services like TransferWise who is also favorably rated if speed isn't a concern.
     2. Transfer limits - this may shrink overall market opportunity for small business or those wanting to send larger amounts of money.
     3. Limited Network
+    4. Additional Service - Bill payments and phone reloads as examples
+    5. Mobile Customer Engagement strategy - looking at a competitor Xoom (PayPal) is a clear leader in this space as two-thirds of there app downloads were from referrals vs. 9.4% for Remitly
 
 * **Technology**
 
-According to G2 STack, Remitly is leveraging 73 technolody products including, but not limited to  HTML 5, Google Analytics, and jQuery.  Additionally, they are using a further 53 technologies for it's website cited by BuiltWith that include Viewport, Meta, IPhone / Mobile Compatible and LetsEncrypt.
+According to G2 STack and StackShare, Remitly is leveraging 73 technolody products including, but not limited to HTML 5, Google Analytics, and jQuery, React, Bootstrap, Google Cloud Platform, GitHub Pages, Amazon SES, SquareSpace, Java, Amazon CloudFront.  Additionally, they are using a further 53 technologies for it's website cited by BuiltWith that include Viewport, Meta, IPhone / Mobile Compatible and LetsEncrypt.  Relating to Business Tools they leverage items such as Gmail, G Suite, Typekit, AdRoll and Olark among others.
+
+Secure Transfers - they use Secure Socket Layer (SSL) with 256-bit encription - this is the industry standard in secure server.  Additionally, passwards and email varification complete the security process - they also make it easy for customers to report suspicious activity via their propietary tools.
 
 
 ## Landscape:
@@ -94,22 +98,50 @@ According to G2 STack, Remitly is leveraging 73 technolody products including, b
 
 ## Results
 
-* What has been the business impact of this company so far?
+* **Success Metrics**
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+    * Valuation
+    * Annual Revenue
+    * Active Customers
+    * Market Size
+    * Transaction Volume
+    * Employee Rating
 
-* How is your company performing relative to competitors in the same domain?
+* **Remitly Performance Among Close Competition**
+
+    * **Valuation** - currently valued at $1.5B - given that most of the companies are private, they would be mid to low in this category, it has fallen from the Forbes Top 50 Fintech Comanies in 2020 after being on this list in 2019.
+
+        * **Comparisons** - hard to fully judge, Remitly was founded in 2011 of companies founded in similar times TransferWise is higher and on par with WorldRemit.  Obvioulsy these companies have seen agressive growht, but Western Union $9.8B one of the giants PayPal $320B have shown strength.  While the prior may be seen as a brick and morter business, FinTech could still give it long term advantages given footpringts.
+
+    * **Annual Revenue** - lastest reaported revenue is $80M in 2018 - for similar timing of companies again trailing TransferWise and on par with WorldRemit.
+
+    * **Active Customers** - estimated at 1M, there is not a lot of data here with the exception of TransferWise showing an estimate of 8M customers.
+
+    * **Maret Size** - they are operating in 17 markets for sending money, this is where they have a lot of room to grow as this is one theme of weekness, the only other marker found was PayPal showing 200 - since Xoom is a subsidery of PayPal they have a definate advantage here, but this is also a big opportunity for growth.
+
+    * **Transaction Volume** - While there are many sources quoting $6B in remittances, there is a figure of volume, I would assume based on there constraint around transfer amounts that they would be on par with WorldRemit at 5.4M transactions cited in 2016 on Craft.
+
+    * **Employee Rating** - I wouldn't call this a direct factor in finacial success, but it goes a long way to attracting top talent - they have along with TransferWise the highest among direct commpetition that I researched.  This positions them well for growth in key opportunity areas that many ratings call out.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* **Overview** - Remitly is seen in high regard across the money transfer segment and by most accounts owns a great customer experience, they has a hich ease of use and speed - which is clearly a competative advanage with their two product offering of Express for real time transfers and Economy.  
 
-* Why do you think that offering this product or service would benefit the company?
+* **Advice** - I think there are two very clear opportunities that I would call low hanging fruit.  
 
-* What technologies would this additional product or service utilize?
+    1. **Increase Transfer Limits** - this would allow them to potentially touch a new segment in the small business and take more market share.  They already have potential best in class speed and service, why not open this to new markets.
 
-* Why are these technologies appropriate for your solution?
+        * **FinTech needed** - This would leverage the current platform and just increase limits to broaden the market - they are also again using industry leading security and encription protocals so a very natural fit for leveling up to small business and just larger transfers in general - this may also help with the perception of there fees being higher than industry trends - given this feels more like a commodity market transparent pricing is key and customers will only pay so much before they will look elsewhere.
+
+    2. **Expand Offerings to include Payments** - again a natural evolution to allow customers to make payments as well as 're-load' their phones.  This seems to be a clear missing offering for a company in this space.  This type of offering would make the company more sticky - thinking of this as a vertical stack, not only do they have the customer transfers, they now allow them to make payments and 're-load' their phones.  As with the first options, this also could open them to new customers as well as small business that are using other services that don't offer these features.
+
+        * **FinTech needed** - This one isn't as straight forward as the intial idea as new tech is needed.  My recommendation is to develope of a master interface and leverage existing best in class payment software like Zelle to quickly capitalize on this opportunity.  I think this is a perfect plug and play option to bolt on to there easy to use fast interface.  Creating a proprietary system not only would take time, but could be very costly.  It is much more cost effective to own the integration and focus on that speed of execution with your existing platform and you are able to capture market share earlier.
+
+    3. **Rapid Expansion** - They are seen as high priced with limited network, also the referrel stats for downloading are also below makret average.  Why these are not linked, again you have an obvious bottleneck that can be addressed and fixed.  I have no doubt this is on there radar, but the trick is can they leverage technology to make this happen sooner.  I would not call them a market leader in growth as other FinTech companies are growing faster so that must be addressed.  This isn't just about more markets it's about addressing holes in the model - you can't transfer between sender countries, can't cover business expense, can't send monitary gifts to charities, can't transfer below $100, and you transfer in a major vs. local country it may also not be idea.
+
+        * **FinTech needed** - Here the conlcusion may be more about access potentially to transfer options and not just merely more markets, so they may have to explore and expand offerings and open up some current barriers based on the business decisions. The tech again here is leveraging there mobile platform and making tweaks to policy to free up revenue streams - this is appropriate as you have an existing customer based with 92% either citing and excellent or good experience. The other tech being leverage is access points in under developed countries.  I think you can still focus on the mission and increase revenue streams in a socially responsible way.
+        
 
 ## Resources
 ​
@@ -134,3 +166,18 @@ According to G2 STack, Remitly is leveraging 73 technolody products including, b
 * [MoneyControl](https://www.moneycontrol.com/news/technology/global-fintech-market-set-to-reach-305-7-billion-by-2023-report-3810171.html)
 
 * [Trasumo](https://transumo.com/remitly-review/)
+
+* [RigorousThemes](https://rigorousthemes.com/blog/remitly-vs-xoom/)
+
+* [Stackshare](https://stackshare.io/remitly/remitly)
+
+* [Top50_2021] (https://www.forbes.com/fintech/2020/#7e48c4ff4acd)
+
+* [Zelle](https://www.zellepay.com/)
+
+* [Zoom](https://www.xoom.com/)
+
+* [CrunchBase](https://www.crunchbase.com/organization/remitly/technology)
+
+* [WorldRemit](https://www.worldremit.com/en)
+
