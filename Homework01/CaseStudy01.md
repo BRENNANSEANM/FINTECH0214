@@ -175,7 +175,7 @@ This is fastly beomcing a crowded space with lots of competition vying for the f
 
 * [Stackshare](https://stackshare.io/remitly/remitly)
 
-* [Forbes50] (https://www.forbes.com/fintech/2020/#3ee86b894acd)
+* [Forbes50](https://www.forbes.com/fintech/2020/#3ee86b894acd)
 
 * [Zelle](https://www.zellepay.com/)
 
