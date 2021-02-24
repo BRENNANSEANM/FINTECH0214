@@ -141,7 +141,11 @@ Secure Transfers - they use Secure Socket Layer (SSL) with 256-bit encription - 
     3. **Rapid Expansion** - They are seen as high priced with limited network, also the referrel stats for downloading are also below makret average.  Why these are not linked, again you have an obvious bottleneck that can be addressed and fixed.  I have no doubt this is on there radar, but the trick is can they leverage technology to make this happen sooner.  I would not call them a market leader in growth as other FinTech companies are growing faster so that must be addressed.  This isn't just about more markets it's about addressing holes in the model - you can't transfer between sender countries, can't cover business expense, can't send monitary gifts to charities, can't transfer below $100, and you transfer in a major vs. local country it may also not be idea.
 
         * **FinTech needed** - Here the conlcusion may be more about access potentially to transfer options and not just merely more markets, so they may have to explore and expand offerings and open up some current barriers based on the business decisions. The tech again here is leveraging there mobile platform and making tweaks to policy to free up revenue streams - this is appropriate as you have an existing customer based with 92% either citing and excellent or good experience. The other tech being leverage is access points in under developed countries.  I think you can still focus on the mission and increase revenue streams in a socially responsible way.
-        
+
+# Conclusion
+
+This is fastly beomcing a crowded space with lots of competition vying for the fastest and most cost affective way to disrupt the market.  Remitly is very well positioned today with high ratings across multiple reviews citing ease of use and speed as key competative advantages.  Fame is fleeting and expansion is key.  There are key open opportunities to leverage thier proprietary tech stach to take this advantage to more people.  The concern may ultimately come from institutinoal banks, while they may be slower to react, they are all betting in FinTech, and they have captial.  Additionally, larger FinTech companies like PayPal have subsidiaries like Xoom already in this space with potentially better tools and market awareness.  Remitly has an opportunity to grow taking advantage of what I feel help plug holes in weeknesses, now it's about speed and exection.
+
 
 ## Resources
 ​
@@ -171,7 +175,7 @@ Secure Transfers - they use Secure Socket Layer (SSL) with 256-bit encription - 
 
 * [Stackshare](https://stackshare.io/remitly/remitly)
 
-* [Top50_2021] (https://www.forbes.com/fintech/2020/#7e48c4ff4acd)
+* [Top50] (https://www.forbes.com/fintech/2020/#7e48c4ff4acd)
 
 * [Zelle](https://www.zellepay.com/)
 
